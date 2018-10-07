@@ -1,0 +1,12 @@
+StartChar: uni04EB
+Encoding: 1259 1259 525
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 301 718 basechar 0
+AnchorPoint: "Anchor-0" 0 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 524 1257 N 1 0 0 1 0 0 0
+Refer: 1433 168 N 1 0 0 1 1 0 0
+EndChar

@@ -1,0 +1,12 @@
+StartChar: iotadieresistonos
+Encoding: 912 912 742
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 290 531 basechar 0
+AnchorPoint: "Anchor-2" 300 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 723 953 N 1 0 0 1 0 0 0
+Refer: 1460 901 N 1 0 0 1 -10 0 0
+EndChar

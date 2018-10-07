@@ -1,0 +1,15 @@
+StartChar: sacute
+Encoding: 347 347 230
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-5" 307 527 basechar 0
+AnchorPoint: "Anchor-4" 297 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 229 115 N 1 0 0 1 0 0 0
+Refer: 1428 180 N 1 0 0 1 7 0 0
+Validated: 1
+Substitution2: "'locl' Localized Forms in Latin lookup 7 subtable" sacute.loclPLK
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" sacute.loclPLK
+EndChar

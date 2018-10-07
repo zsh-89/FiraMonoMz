@@ -1,0 +1,12 @@
+StartChar: agrave
+Encoding: 224 224 141
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-5" 292 528 basechar 0
+AnchorPoint: "Anchor-4" 300 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 136 97 N 1 0 0 1 0 0 0
+Refer: 1435 96 N 1 0 0 1 -8 0 0
+EndChar

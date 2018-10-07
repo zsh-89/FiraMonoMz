@@ -1,0 +1,131 @@
+StartChar: exclamdown
+Encoding: 161 161 985
+Width: 600
+Flags: W
+TtInstrs:
+MPPEM
+PUSHB_1
+ 21
+LT
+IF
+NPUSHB
+ 22
+ 0
+ 0
+ 0
+ 1
+ 91
+ 4
+ 1
+ 1
+ 1
+ 60
+ 75
+ 0
+ 3
+ 3
+ 2
+ 89
+ 0
+ 2
+ 2
+ 62
+ 2
+ 76
+ELSE
+MPPEM
+PUSHB_1
+ 31
+LT
+IF
+NPUSHB
+ 20
+ 4
+ 1
+ 1
+ 0
+ 0
+ 3
+ 1
+ 0
+ 99
+ 0
+ 3
+ 3
+ 2
+ 89
+ 0
+ 2
+ 2
+ 62
+ 2
+ 76
+ELSE
+NPUSHB
+ 25
+ 4
+ 1
+ 1
+ 0
+ 0
+ 3
+ 1
+ 0
+ 99
+ 0
+ 3
+ 2
+ 2
+ 3
+ 85
+ 0
+ 3
+ 3
+ 2
+ 89
+ 0
+ 2
+ 3
+ 2
+ 77
+EIF
+EIF
+NPUSHB
+ 14
+ 0
+ 0
+ 15
+ 14
+ 13
+ 12
+ 0
+ 11
+ 0
+ 10
+ 36
+ 5
+ 8
+ 21
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+353 481.5 m 128,-1,1
+ 375 459 375 459 375 427 c 0,2,3
+ 375 396 375 396 353 374 c 128,-1,4
+ 331 352 331 352 299 352 c 0,5,6
+ 268 352 268 352 246 374 c 128,-1,7
+ 224 396 224 396 224 427 c 0,8,9
+ 224 459 224 459 246 481.5 c 128,-1,10
+ 268 504 268 504 299 504 c 0,11,0
+ 331 504 331 504 353 481.5 c 128,-1,1
+362 -200 m 1,12,-1
+ 238 -200 l 1,13,-1
+ 253 252 l 1,14,-1
+ 346 252 l 1,15,-1
+ 362 -200 l 1,12,-1
+EndSplineSet
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 23 subtable" exclamdown.case
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" exclamdown.case
+EndChar

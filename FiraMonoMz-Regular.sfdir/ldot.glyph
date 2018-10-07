@@ -1,0 +1,24 @@
+StartChar: ldot
+Encoding: 320 320 200
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 1
+PUSHW_1
+ -333
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-5" 265 739 basechar 0
+AnchorPoint: "Anchor-4" 361 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 196 108 N 1 0 0 1 0 0 0
+Refer: 1434 729 N 1 0 0 1 261 -333 0
+Validated: 1
+Ligature2: "Ligature Substitution lookup 28 subtable" l periodcentered
+EndChar

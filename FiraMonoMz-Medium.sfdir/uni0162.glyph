@@ -1,0 +1,107 @@
+StartChar: uni0162
+Encoding: 354 354 102
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 64
+ 1
+ 1
+ 2
+ 3
+ 11
+ 1
+ 1
+ 2
+ 10
+ 1
+ 0
+ 1
+ 3
+ 74
+ 0
+ 2
+ 3
+ 1
+ 3
+ 2
+ 1
+ 112
+ 0
+ 1
+ 0
+ 0
+ 1
+ 0
+ 95
+ 6
+ 1
+ 4
+ 4
+ 5
+ 89
+ 0
+ 5
+ 5
+ 57
+ 75
+ 8
+ 7
+ 2
+ 3
+ 3
+ 58
+ 3
+ 76
+ 0
+ 0
+ 0
+ 27
+ 0
+ 27
+ 17
+ 17
+ 17
+ 17
+ 19
+ 36
+ 38
+ 9
+ 8
+ 27
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-5" 299 690 basechar 0
+AnchorPoint: "Anchor-4" 299 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+335 0 m 1,0,-1
+ 335 -54 l 1,1,2
+ 383 -58 383 -58 407.5 -82.5 c 128,-1,3
+ 432 -107 432 -107 432 -143 c 0,4,5
+ 432 -191 432 -191 394.5 -219 c 128,-1,6
+ 357 -247 357 -247 300 -247 c 0,7,8
+ 269 -247 269 -247 239.5 -240 c 128,-1,9
+ 210 -233 210 -233 190 -221 c 1,10,-1
+ 221 -163 l 1,11,12
+ 253 -180 253 -180 287 -180 c 0,13,14
+ 344 -180 344 -180 344 -142 c 0,15,16
+ 344 -119 344 -119 322.5 -111 c 128,-1,17
+ 301 -103 301 -103 255 -103 c 1,18,-1
+ 265 0 l 1,19,-1
+ 241 0 l 1,20,-1
+ 241 596 l 1,21,-1
+ 33 596 l 1,22,-1
+ 33 690 l 1,23,-1
+ 568 690 l 1,24,-1
+ 556 596 l 1,25,-1
+ 357 596 l 1,26,-1
+ 357 0 l 1,27,-1
+ 335 0 l 1,0,-1
+EndSplineSet
+Substitution2: "'locl' Localized Forms in Latin lookup 5 subtable" uni021A
+Substitution2: "'locl' Localized Forms in Latin lookup 4 subtable" uni021A
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni021A
+EndChar

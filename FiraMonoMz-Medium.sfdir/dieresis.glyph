@@ -1,0 +1,100 @@
+StartChar: dieresis
+Encoding: 168 168 1433
+Width: 600
+Flags: W
+TtInstrs:
+MPPEM
+PUSHB_1
+ 23
+LT
+IF
+NPUSHB
+ 15
+ 5
+ 3
+ 4
+ 3
+ 1
+ 1
+ 0
+ 91
+ 2
+ 1
+ 0
+ 0
+ 67
+ 1
+ 76
+ELSE
+NPUSHB
+ 21
+ 2
+ 1
+ 0
+ 1
+ 1
+ 0
+ 87
+ 2
+ 1
+ 0
+ 0
+ 1
+ 91
+ 5
+ 3
+ 4
+ 3
+ 1
+ 0
+ 1
+ 79
+EIF
+NPUSHB
+ 18
+ 12
+ 12
+ 0
+ 0
+ 12
+ 23
+ 12
+ 22
+ 18
+ 16
+ 0
+ 11
+ 0
+ 10
+ 36
+ 6
+ 8
+ 21
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-6" 300 707 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+145 662 m 128,-1,1
+ 126 680 126 680 126 707 c 0,2,3
+ 126 735 126 735 145 753 c 128,-1,4
+ 164 771 164 771 192 771 c 0,5,6
+ 219 771 219 771 237.5 753 c 128,-1,7
+ 256 735 256 735 256 707 c 0,8,9
+ 256 680 256 680 237.5 662 c 128,-1,10
+ 219 644 219 644 192 644 c 0,11,0
+ 164 644 164 644 145 662 c 128,-1,1
+362 662 m 128,-1,13
+ 343 680 343 680 343 707 c 256,14,15
+ 343 734 343 734 362 752.5 c 128,-1,16
+ 381 771 381 771 408 771 c 0,17,18
+ 436 771 436 771 454.5 753 c 128,-1,19
+ 473 735 473 735 473 707 c 0,20,21
+ 473 680 473 680 454.5 662 c 128,-1,22
+ 436 644 436 644 408 644 c 0,23,12
+ 381 644 381 644 362 662 c 128,-1,13
+EndSplineSet
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 23 subtable" dieresis.case
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" dieresis.case
+EndChar

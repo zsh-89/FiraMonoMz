@@ -1,0 +1,24 @@
+StartChar: uni1F3C
+Encoding: 7996 7996 671
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 2
+PUSHW_1
+ -139
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-3" -162 696 basechar 0
+AnchorPoint: "Anchor-2" 300 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 575 921 N 1 0 0 1 0 0 0
+Refer: 1466 8142 N 1 0 0 1 -435 -139 0
+Substitution2: "Single Substitution lookup 29 subtable" Iota
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Iota
+EndChar

@@ -1,0 +1,21 @@
+StartChar: six.numr
+Encoding: 1114153 -1 953
+Width: 600
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 2
+PUSHW_1
+ 368
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 943 -1 N 1 0 0 1 0 368 0
+Validated: 1
+Substitution2: "Single Substitution lookup 29 subtable" six.dnom
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" six.dnom
+EndChar

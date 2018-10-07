@@ -1,0 +1,12 @@
+StartChar: Acircumflex
+Encoding: 194 194 7
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-5" 300 693 basechar 0
+AnchorPoint: "Anchor-4" 299 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 4 65 N 1 0 0 1 0 0 0
+Refer: 1446 -1 N 1 0 0 1 0 0 0
+EndChar

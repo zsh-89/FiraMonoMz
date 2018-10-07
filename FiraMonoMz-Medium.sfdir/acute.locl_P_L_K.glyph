@@ -1,0 +1,22 @@
+StartChar: acute.loclPLK
+Encoding: 1114240 -1 1454
+Width: 600
+Flags: W
+TtInstrs:
+PUSHB_4
+ 3
+ 1
+ 1
+ 48
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+395 735 m 1,0,-1
+ 259 578 l 1,1,-1
+ 205 612 l 1,2,-1
+ 308 791 l 1,3,-1
+ 395 735 l 1,0,-1
+EndSplineSet
+EndChar

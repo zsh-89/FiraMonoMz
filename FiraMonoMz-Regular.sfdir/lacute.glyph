@@ -1,0 +1,23 @@
+StartChar: lacute
+Encoding: 314 314 197
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 1
+PUSHB_1
+ 212
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-5" 265 739 basechar 0
+AnchorPoint: "Anchor-4" 361 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 196 108 N 1 0 0 1 0 0 0
+Refer: 1428 180 N 1 0 0 1 -35 212 0
+Validated: 1
+EndChar

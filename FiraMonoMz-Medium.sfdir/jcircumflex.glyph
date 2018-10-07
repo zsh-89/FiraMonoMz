@@ -1,0 +1,12 @@
+StartChar: jcircumflex
+Encoding: 309 309 192
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-5" 369 528 basechar 0
+AnchorPoint: "Anchor-4" 0 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 191 567 N 1 0 0 1 0 0 0
+Refer: 1432 710 N 1 0 0 1 69 0 0
+EndChar

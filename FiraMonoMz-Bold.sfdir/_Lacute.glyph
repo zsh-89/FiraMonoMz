@@ -1,0 +1,12 @@
+StartChar: Lacute
+Encoding: 313 313 62
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-5" 175 693 basechar 0
+AnchorPoint: "Anchor-4" 317 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 61 76 N 1 0 0 1 0 0 0
+Refer: 1442 -1 N 1 0 0 1 -130 0 0
+EndChar

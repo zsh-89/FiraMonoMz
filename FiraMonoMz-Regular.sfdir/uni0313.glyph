@@ -1,0 +1,25 @@
+StartChar: uni0313
+Encoding: 787 787 1411
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 1
+PUSHW_1
+ 833
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-8" -323 527 mark 0
+AnchorPoint: "Anchor-6" -323 527 mark 0
+AnchorPoint: "Anchor-5" -323 527 mark 0
+AnchorPoint: "Anchor-3" -323 527 mark 0
+AnchorPoint: "Anchor-1" -323 527 mark 0
+LayerCount: 2
+Fore
+Refer: 1412 806 N 1 0 0 1 15 833 0
+Validated: 1
+EndChar

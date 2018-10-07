@@ -1,0 +1,25 @@
+StartChar: uni1FAB
+Encoding: 8107 8107 710
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 2
+PUSHW_1
+ -118
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-3" -92 696 basechar 0
+AnchorPoint: "Anchor-2" 377 -194 basechar 0
+LayerCount: 2
+Fore
+Refer: 590 937 N 1 0 0 1 0 0 0
+Refer: 1465 8157 N 1 0 0 1 -418 -118 0
+Refer: 1457 837 N 1 0 0 1 666 0 0
+Substitution2: "Single Substitution lookup 29 subtable" uni03A9
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni03A9
+EndChar

@@ -1,0 +1,13 @@
+StartChar: Scommaaccent
+Encoding: 536 536 98
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-5" 306 689 basechar 0
+AnchorPoint: "Anchor-4" 297 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 93 83 N 1 0 0 1 0 0 0
+Refer: 1424 -1 N 1 0 0 1 597 0 0
+Validated: 1
+EndChar

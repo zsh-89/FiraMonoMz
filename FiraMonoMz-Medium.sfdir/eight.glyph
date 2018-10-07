@@ -1,0 +1,97 @@
+StartChar: eight
+Encoding: 56 56 906
+Width: 600
+Flags: W
+TtInstrs:
+NPUSHB
+ 37
+ 43
+ 30
+ 15
+ 2
+ 4
+ 3
+ 2
+ 1
+ 74
+ 0
+ 2
+ 2
+ 1
+ 91
+ 0
+ 1
+ 1
+ 65
+ 75
+ 0
+ 3
+ 3
+ 0
+ 91
+ 0
+ 0
+ 0
+ 66
+ 0
+ 76
+ 42
+ 44
+ 43
+ 40
+ 4
+ 8
+ 24
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+487 441 m 128,-1,1
+ 459 405 459 405 401 372 c 1,2,3
+ 470 341 470 341 506.5 294 c 128,-1,4
+ 543 247 543 247 543 186 c 0,5,6
+ 543 130 543 130 513.5 84.5 c 128,-1,7
+ 484 39 484 39 428.5 13 c 128,-1,8
+ 373 -13 373 -13 298 -13 c 0,9,10
+ 222 -13 222 -13 167.5 13 c 128,-1,11
+ 113 39 113 39 85 83.5 c 128,-1,12
+ 57 128 57 128 57 183 c 0,13,14
+ 57 301 57 301 191 361 c 1,15,16
+ 135 390 135 390 110 426.5 c 128,-1,17
+ 85 463 85 463 85 520 c 0,18,19
+ 85 579 85 579 115.5 620.5 c 128,-1,20
+ 146 662 146 662 195.5 683 c 128,-1,21
+ 245 704 245 704 300 704 c 0,22,23
+ 359 704 359 704 407.5 683.5 c 128,-1,24
+ 456 663 456 663 485.5 623 c 128,-1,25
+ 515 583 515 583 515 526 c 0,26,0
+ 515 477 515 477 487 441 c 128,-1,1
+208 465 m 128,-1,28
+ 223 444 223 444 250 430.5 c 128,-1,29
+ 277 417 277 417 325 400 c 1,30,31
+ 369 427 369 427 388 454 c 128,-1,32
+ 407 481 407 481 407 520 c 0,33,34
+ 407 567 407 567 379 594.5 c 128,-1,35
+ 351 622 351 622 300 622 c 256,36,37
+ 249 622 249 622 221 595 c 128,-1,38
+ 193 568 193 568 193 519 c 0,39,27
+ 193 486 193 486 208 465 c 128,-1,28
+409 250.5 m 128,-1,41
+ 390 276 390 276 357.5 292 c 128,-1,42
+ 325 308 325 308 263 330 c 1,43,44
+ 172 283 172 283 172 187 c 0,45,46
+ 172 133 172 133 204.5 102.5 c 128,-1,47
+ 237 72 237 72 299 72 c 256,48,49
+ 361 72 361 72 394.5 103.5 c 128,-1,50
+ 428 135 428 135 428 185 c 0,51,40
+ 428 225 428 225 409 250.5 c 128,-1,41
+EndSplineSet
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" eight.tosf
+Substitution2: "'frac' Diagonal Fractions in Latin lookup 17 subtable" eight.numr
+Substitution2: "'dnom' Denominators in Latin lookup 15 subtable" eight.dnom
+Substitution2: "'numr' Numerators in Latin lookup 14 subtable" eight.numr
+Substitution2: "'sups' Superscript in Latin lookup 13 subtable" uni2078
+Substitution2: "'subs' Subscript in Latin lookup 12 subtable" uni2088
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni2088 uni2078 eight.numr eight.dnom eight.tosf
+EndChar

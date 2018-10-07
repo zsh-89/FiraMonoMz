@@ -1,0 +1,102 @@
+StartChar: five
+Encoding: 53 53 903
+Width: 600
+Flags: W
+TtInstrs:
+NPUSHB
+ 58
+ 2
+ 1
+ 4
+ 1
+ 15
+ 14
+ 2
+ 3
+ 5
+ 2
+ 74
+ 0
+ 5
+ 4
+ 3
+ 4
+ 5
+ 3
+ 112
+ 0
+ 1
+ 0
+ 4
+ 5
+ 1
+ 4
+ 99
+ 0
+ 0
+ 0
+ 6
+ 89
+ 0
+ 6
+ 6
+ 57
+ 75
+ 0
+ 3
+ 3
+ 2
+ 91
+ 0
+ 2
+ 2
+ 66
+ 2
+ 76
+ 17
+ 18
+ 36
+ 35
+ 38
+ 34
+ 16
+ 7
+ 8
+ 27
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+483 606 m 1,0,-1
+ 218 606 l 1,1,-1
+ 218 414 l 1,2,3
+ 271 441 271 441 331 441 c 0,4,5
+ 386 441 386 441 429.5 415 c 128,-1,6
+ 473 389 473 389 497.5 339.5 c 128,-1,7
+ 522 290 522 290 522 222 c 0,8,9
+ 522 153 522 153 491 99.5 c 128,-1,10
+ 460 46 460 46 404 16.5 c 128,-1,11
+ 348 -13 348 -13 274 -13 c 0,12,13
+ 147 -13 147 -13 63 77 c 1,14,-1
+ 129 140 l 1,15,16
+ 188 75 188 75 269 75 c 0,17,18
+ 333 75 333 75 369 113.5 c 128,-1,19
+ 405 152 405 152 405 222 c 0,20,21
+ 405 294 405 294 374.5 326.5 c 128,-1,22
+ 344 359 344 359 292 359 c 0,23,24
+ 268 359 268 359 245.5 353.5 c 128,-1,25
+ 223 348 223 348 194 336 c 1,26,-1
+ 111 336 l 1,27,-1
+ 111 690 l 1,28,-1
+ 498 690 l 1,29,-1
+ 483 606 l 1,0,-1
+EndSplineSet
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" five.tosf
+Substitution2: "'frac' Diagonal Fractions in Latin lookup 17 subtable" five.numr
+Substitution2: "'dnom' Denominators in Latin lookup 15 subtable" five.dnom
+Substitution2: "'numr' Numerators in Latin lookup 14 subtable" five.numr
+Substitution2: "'sups' Superscript in Latin lookup 13 subtable" uni2075
+Substitution2: "'subs' Subscript in Latin lookup 12 subtable" uni2085
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni2085 uni2075 five.numr five.dnom five.tosf
+EndChar

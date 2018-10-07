@@ -1,0 +1,18 @@
+StartChar: parenleft.numr
+Encoding: 1114168 -1 1018
+Width: 600
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 1
+PUSHW_1
+ 371
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 1016 -1 N 1 0 0 1 4 371 0
+EndChar

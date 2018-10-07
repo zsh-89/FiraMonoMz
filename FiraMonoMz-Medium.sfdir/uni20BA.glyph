@@ -1,0 +1,88 @@
+StartChar: uni20BA
+Encoding: 8378 8378 1061
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 44
+ 27
+ 22
+ 21
+ 20
+ 19
+ 18
+ 17
+ 16
+ 15
+ 12
+ 11
+ 10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 17
+ 2
+ 1
+ 1
+ 74
+ 0
+ 1
+ 1
+ 57
+ 75
+ 0
+ 2
+ 2
+ 0
+ 92
+ 0
+ 0
+ 0
+ 58
+ 0
+ 76
+ 41
+ 25
+ 34
+ 3
+ 8
+ 23
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+562 156 m 1,0,1
+ 526 78 526 78 464 39 c 128,-1,2
+ 402 0 402 0 306 0 c 2,3,-1
+ 132 0 l 1,4,-1
+ 132 193 l 1,5,-1
+ 80 169 l 1,6,-1
+ 52 229 l 1,7,-1
+ 132 266 l 1,8,-1
+ 132 338 l 1,9,-1
+ 81 315 l 1,10,-1
+ 52 376 l 1,11,-1
+ 132 414 l 1,12,-1
+ 132 690 l 1,13,-1
+ 248 690 l 1,14,-1
+ 248 467 l 1,15,-1
+ 401 538 l 1,16,-1
+ 429 477 l 1,17,-1
+ 248 392 l 1,18,-1
+ 248 320 l 1,19,-1
+ 400 391 l 1,20,-1
+ 429 330 l 1,21,-1
+ 248 246 l 1,22,-1
+ 247 97 l 1,23,-1
+ 312 97 l 2,24,25
+ 376 97 376 97 416.5 121.5 c 128,-1,26
+ 457 146 457 146 487 203 c 1,27,-1
+ 562 156 l 1,0,1
+EndSplineSet
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" uni20BA.tosf
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni20BA.tosf
+EndChar

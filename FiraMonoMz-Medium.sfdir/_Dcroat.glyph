@@ -1,0 +1,11 @@
+StartChar: Dcroat
+Encoding: 272 272 26
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-5" 296 690 basechar 0
+AnchorPoint: "Anchor-4" 311 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 24 208 N 1 0 0 1 0 0 0
+EndChar

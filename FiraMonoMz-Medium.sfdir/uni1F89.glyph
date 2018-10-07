@@ -1,0 +1,25 @@
+StartChar: uni1F89
+Encoding: 8073 8073 633
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 2
+ 1
+PUSHW_1
+ -111
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-3" 87 702 basechar 0
+AnchorPoint: "Anchor-2" 374 -194 basechar 0
+LayerCount: 2
+Fore
+Refer: 567 913 N 1 0 0 1 0 0 0
+Refer: 1463 8190 N 1 0 0 1 -218 -111 0
+Refer: 1457 837 N 1 0 0 1 663 0 0
+Substitution2: "Single Substitution lookup 29 subtable" Alpha
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Alpha
+EndChar

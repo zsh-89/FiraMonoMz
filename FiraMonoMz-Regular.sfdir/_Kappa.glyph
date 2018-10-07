@@ -1,0 +1,12 @@
+StartChar: Kappa
+Encoding: 922 922 576
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 327 689 basechar 0
+AnchorPoint: "Anchor-2" 322 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 59 75 N 1 0 0 1 0 0 0
+Validated: 1
+EndChar

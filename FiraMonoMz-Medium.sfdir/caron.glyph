@@ -1,0 +1,39 @@
+StartChar: caron
+Encoding: 711 711 1430
+Width: 600
+Flags: W
+TtInstrs:
+NPUSHB
+ 15
+ 6
+ 5
+ 4
+ 3
+ 4
+ 0
+ 72
+ 0
+ 0
+ 0
+ 105
+ 17
+ 1
+ 8
+ 21
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+473 749 m 1,0,-1
+ 336 622 l 1,1,-1
+ 264 622 l 1,2,-1
+ 127 749 l 1,3,-1
+ 173 799 l 1,4,-1
+ 301 707 l 1,5,-1
+ 428 799 l 1,6,-1
+ 473 749 l 1,0,-1
+EndSplineSet
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 23 subtable" caron.case
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" caron.case
+EndChar

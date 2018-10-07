@@ -1,0 +1,138 @@
+StartChar: i
+Encoding: 105 105 178
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+MPPEM
+PUSHB_1
+ 23
+LT
+IF
+NPUSHB
+ 33
+ 0
+ 0
+ 0
+ 1
+ 91
+ 7
+ 1
+ 1
+ 1
+ 67
+ 75
+ 0
+ 5
+ 5
+ 6
+ 89
+ 0
+ 6
+ 6
+ 60
+ 75
+ 4
+ 1
+ 2
+ 2
+ 3
+ 89
+ 0
+ 3
+ 3
+ 58
+ 3
+ 76
+ELSE
+NPUSHB
+ 31
+ 7
+ 1
+ 1
+ 0
+ 0
+ 6
+ 1
+ 0
+ 99
+ 0
+ 5
+ 5
+ 6
+ 89
+ 0
+ 6
+ 6
+ 60
+ 75
+ 4
+ 1
+ 2
+ 2
+ 3
+ 89
+ 0
+ 3
+ 3
+ 58
+ 3
+ 76
+EIF
+NPUSHB
+ 20
+ 0
+ 0
+ 21
+ 20
+ 19
+ 18
+ 17
+ 16
+ 15
+ 14
+ 13
+ 12
+ 0
+ 11
+ 0
+ 10
+ 36
+ 8
+ 8
+ 21
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-5" 0 0 basechar 0
+AnchorPoint: "Anchor-4" 300 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+352.5 766.5 m 128,-1,1
+ 373 746 373 746 373 716 c 256,2,3
+ 373 686 373 686 352.5 666 c 128,-1,4
+ 332 646 332 646 300 646 c 0,5,6
+ 267 646 267 646 247 666 c 128,-1,7
+ 227 686 227 686 227 716 c 0,8,9
+ 227 747 227 747 247.5 767 c 128,-1,10
+ 268 787 268 787 300 787 c 256,11,0
+ 332 787 332 787 352.5 766.5 c 128,-1,1
+377 82 m 1,12,-1
+ 521 82 l 1,13,-1
+ 521 0 l 1,14,-1
+ 108 0 l 1,15,-1
+ 108 82 l 1,16,-1
+ 265 82 l 1,17,-1
+ 265 446 l 1,18,-1
+ 113 446 l 1,19,-1
+ 113 528 l 1,20,-1
+ 377 528 l 1,21,-1
+ 377 82 l 1,12,-1
+EndSplineSet
+Substitution2: "'locl' Localized Forms in Latin lookup 10 subtable" i.loclTRK
+Substitution2: "'locl' Localized Forms in Latin lookup 8 subtable" i.loclTRK
+Substitution2: "'locl' Localized Forms in Latin lookup 6 subtable" i.loclTRK
+Substitution2: "'locl' Localized Forms in Latin lookup 3 subtable" i.loclTRK
+Substitution2: "'locl' Localized Forms in Latin lookup 2 subtable" i.loclTRK
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" i.loclTRK
+EndChar

@@ -1,0 +1,11 @@
+StartChar: uni2007
+Encoding: 8199 8199 1047
+Width: 600
+Flags: W
+LayerCount: 2
+Fore
+Validated: 1
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" uni2007.tosf
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 21 subtable" uni2007.tf
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni2007.tf uni2007.tosf
+EndChar

@@ -1,0 +1,12 @@
+StartChar: edieresis
+Encoding: 235 235 164
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-5" 307 718 basechar 0
+AnchorPoint: "Anchor-4" 300 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 159 101 N 1 0 0 1 0 0 0
+Refer: 1433 168 N 1 0 0 1 7 0 0
+EndChar

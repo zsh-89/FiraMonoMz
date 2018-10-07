@@ -1,0 +1,36 @@
+StartChar: parenleft
+Encoding: 40 40 1006
+Width: 600
+Flags: W
+TtInstrs:
+PUSHB_4
+ 10
+ 4
+ 1
+ 48
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+252 183 m 128,-1,1
+ 273 111 273 111 316.5 48 c 128,-1,2
+ 360 -15 360 -15 435 -87 c 1,3,-1
+ 374 -147 l 1,4,5
+ 244 -39 244 -39 180 75.5 c 128,-1,6
+ 116 190 116 190 116 350 c 256,7,8
+ 116 510 116 510 180 624.5 c 128,-1,9
+ 244 739 244 739 374 847 c 1,10,-1
+ 435 787 l 1,11,12
+ 361 716 361 716 317.5 653.5 c 128,-1,13
+ 274 591 274 591 252.5 518 c 128,-1,14
+ 231 445 231 445 231 350 c 256,15,0
+ 231 255 231 255 252 183 c 128,-1,1
+EndSplineSet
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 23 subtable" parenleft.case
+Substitution2: "'dnom' Denominators in Latin lookup 15 subtable" parenleft.dnom
+Substitution2: "'numr' Numerators in Latin lookup 14 subtable" parenleft.numr
+Substitution2: "'sups' Superscript in Latin lookup 13 subtable" uni207D
+Substitution2: "'subs' Subscript in Latin lookup 12 subtable" uni208D
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni208D uni207D parenleft.numr parenleft.dnom parenleft.case
+EndChar

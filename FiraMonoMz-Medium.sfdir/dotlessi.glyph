@@ -1,0 +1,58 @@
+StartChar: dotlessi
+Encoding: 305 305 179
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 30
+ 0
+ 3
+ 3
+ 4
+ 89
+ 0
+ 4
+ 4
+ 60
+ 75
+ 2
+ 1
+ 0
+ 0
+ 1
+ 89
+ 0
+ 1
+ 1
+ 58
+ 1
+ 76
+ 17
+ 17
+ 17
+ 17
+ 16
+ 5
+ 8
+ 25
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-5" 300 528 basechar 0
+AnchorPoint: "Anchor-4" 0 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+377 82 m 1,0,-1
+ 521 82 l 1,1,-1
+ 521 0 l 1,2,-1
+ 108 0 l 1,3,-1
+ 108 82 l 1,4,-1
+ 265 82 l 1,5,-1
+ 265 446 l 1,6,-1
+ 113 446 l 1,7,-1
+ 113 528 l 1,8,-1
+ 377 528 l 1,9,-1
+ 377 82 l 1,0,-1
+EndSplineSet
+EndChar

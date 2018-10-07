@@ -1,0 +1,12 @@
+StartChar: alphatonos
+Encoding: 940 940 748
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 278 528 basechar 0
+AnchorPoint: "Anchor-2" 301 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 715 945 N 1 0 0 1 0 0 0
+Refer: 1458 900 N 1 0 0 1 15 0 0
+EndChar

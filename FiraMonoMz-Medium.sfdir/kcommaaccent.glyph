@@ -1,0 +1,12 @@
+StartChar: kcommaaccent
+Encoding: 311 311 194
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-5" 300 740 basechar 0
+AnchorPoint: "Anchor-4" 304 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 193 107 N 1 0 0 1 0 0 0
+Refer: 1412 806 N 1 0 0 1 603 0 0
+EndChar

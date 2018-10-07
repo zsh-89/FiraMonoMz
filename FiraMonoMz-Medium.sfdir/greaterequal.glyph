@@ -1,0 +1,56 @@
+StartChar: greaterequal
+Encoding: 8805 8805 1086
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 26
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+ 0
+ 7
+ 1
+ 72
+ 0
+ 1
+ 1
+ 0
+ 89
+ 0
+ 0
+ 0
+ 58
+ 0
+ 76
+ 17
+ 23
+ 2
+ 8
+ 22
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+504 421 m 1,0,-1
+ 504 313 l 1,1,-1
+ 135 155 l 1,2,-1
+ 95 241 l 1,3,-1
+ 413 367 l 1,4,-1
+ 95 499 l 1,5,-1
+ 135 585 l 1,6,-1
+ 504 421 l 1,0,-1
+503 0 m 1,7,-1
+ 110 0 l 1,8,-1
+ 110 91 l 1,9,-1
+ 503 91 l 1,10,-1
+ 503 0 l 1,7,-1
+EndSplineSet
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" greaterequal.tosf
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" greaterequal.tosf
+EndChar

@@ -1,0 +1,23 @@
+StartChar: dcaron
+Encoding: 271 271 157
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 2
+ 1
+PUSHB_1
+ 50
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-5" 271 739 basechar 0
+AnchorPoint: "Anchor-4" 271 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 155 100 N 1 0 0 1 -29 0 0
+Refer: 1441 -1 N 1 0 0 1 258 50 0
+Validated: 1
+EndChar

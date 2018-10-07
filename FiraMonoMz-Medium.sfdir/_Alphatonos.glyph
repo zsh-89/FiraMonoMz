@@ -1,0 +1,14 @@
+StartChar: Alphatonos
+Encoding: 902 902 591
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 300 690 basechar 0
+AnchorPoint: "Anchor-2" 298 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 4 65 N 1 0 0 1 0 0 0
+Refer: 1459 -1 N 1 0 0 1 -199 0 0
+Substitution2: "Single Substitution lookup 29 subtable" Alpha
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Alpha
+EndChar

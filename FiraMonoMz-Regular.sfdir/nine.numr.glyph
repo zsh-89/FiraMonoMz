@@ -1,0 +1,21 @@
+StartChar: nine.numr
+Encoding: 1114156 -1 956
+Width: 600
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 2
+PUSHW_1
+ 368
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 946 -1 N 1 0 0 1 0 368 0
+Validated: 1
+Substitution2: "Single Substitution lookup 29 subtable" nine.dnom
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" nine.dnom
+EndChar

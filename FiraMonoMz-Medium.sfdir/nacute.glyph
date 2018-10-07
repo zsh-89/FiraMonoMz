@@ -1,0 +1,14 @@
+StartChar: nacute
+Encoding: 324 324 204
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-5" 300 528 basechar 0
+AnchorPoint: "Anchor-4" 301 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 203 110 N 1 0 0 1 0 0 0
+Refer: 1428 180 N 1 0 0 1 0 0 0
+Substitution2: "'locl' Localized Forms in Latin lookup 7 subtable" nacute.loclPLK
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" nacute.loclPLK
+EndChar

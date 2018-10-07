@@ -1,0 +1,22 @@
+StartChar: lcaron
+Encoding: 318 318 198
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 1
+PUSHB_1
+ 51
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-5" 262 740 basechar 0
+AnchorPoint: "Anchor-4" 359 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 196 108 N 1 0 0 1 0 0 0
+Refer: 1441 -1 N 1 0 0 1 123 51 0
+EndChar

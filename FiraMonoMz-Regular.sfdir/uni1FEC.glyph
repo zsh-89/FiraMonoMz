@@ -1,0 +1,25 @@
+StartChar: uni1FEC
+Encoding: 8172 8172 687
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 2
+ 1
+PUSHW_1
+ -100
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-3" 8 698 basechar 0
+AnchorPoint: "Anchor-2" 300 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 583 929 N 1 0 0 1 0 0 0
+Refer: 1463 8190 N 1 0 0 1 -293 -100 0
+Validated: 1
+Substitution2: "Single Substitution lookup 29 subtable" Rho
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Rho
+EndChar

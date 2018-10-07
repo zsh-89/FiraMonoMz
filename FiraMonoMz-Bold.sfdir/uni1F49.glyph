@@ -1,0 +1,24 @@
+StartChar: uni1F49
+Encoding: 8009 8009 680
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 2
+ 1
+PUSHW_1
+ -129
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-3" -40 708 basechar 0
+AnchorPoint: "Anchor-2" 300 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 581 927 N 1 0 0 1 0 0 0
+Refer: 1463 8190 N 1 0 0 1 -352 -129 0
+Substitution2: "Single Substitution lookup 29 subtable" Omicron
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" Omicron
+EndChar

@@ -1,0 +1,21 @@
+StartChar: zero.numr
+Encoding: 1114147 -1 947
+Width: 600
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 2
+PUSHW_1
+ 370
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 937 -1 N 1 0 0 1 0 370 0
+Validated: 1
+Substitution2: "Single Substitution lookup 29 subtable" zero.dnom
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" zero.dnom
+EndChar

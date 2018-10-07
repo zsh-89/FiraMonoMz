@@ -1,0 +1,22 @@
+StartChar: uni04DF
+Encoding: 1247 1247 519
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 2
+PUSHW_1
+ -1
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-1" 291 706 basechar 0
+AnchorPoint: "Anchor-0" 299 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 430 1079 N 1 0 0 1 0 0 0
+Refer: 1433 168 N 1 0 0 1 -9 -1 0
+EndChar

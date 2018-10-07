@@ -1,0 +1,61 @@
+StartChar: equal
+Encoding: 61 61 1081
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 31
+ 0
+ 1
+ 0
+ 0
+ 3
+ 1
+ 0
+ 97
+ 0
+ 3
+ 2
+ 2
+ 3
+ 85
+ 0
+ 3
+ 3
+ 2
+ 89
+ 0
+ 2
+ 3
+ 2
+ 77
+ 17
+ 17
+ 17
+ 16
+ 4
+ 8
+ 24
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+507 364 m 1,0,-1
+ 93 364 l 1,1,-1
+ 93 456 l 1,2,-1
+ 507 456 l 1,3,-1
+ 507 364 l 1,0,-1
+507 167 m 1,4,-1
+ 93 167 l 1,5,-1
+ 93 258 l 1,6,-1
+ 507 258 l 1,7,-1
+ 507 167 l 1,4,-1
+EndSplineSet
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" equal.tosf
+Substitution2: "'dnom' Denominators in Latin lookup 15 subtable" equal.dnom
+Substitution2: "'numr' Numerators in Latin lookup 14 subtable" equal.numr
+Substitution2: "'sups' Superscript in Latin lookup 13 subtable" uni207C
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni207C equal.numr equal.dnom equal.tosf
+EndChar

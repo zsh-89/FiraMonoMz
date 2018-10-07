@@ -1,0 +1,22 @@
+StartChar: tonos.case
+Encoding: 1114242 -1 1459
+Width: 600
+Flags: W
+TtInstrs:
+PUSHB_4
+ 3
+ 1
+ 1
+ 48
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+378 690 m 1,0,-1
+ 301 483 l 1,1,-1
+ 222 496 l 1,2,-1
+ 259 712 l 1,3,-1
+ 378 690 l 1,0,-1
+EndSplineSet
+EndChar

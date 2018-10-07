@@ -1,0 +1,22 @@
+StartChar: cacute.loclPLK
+Encoding: 1114120 -1 268
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 1
+PUSHW_1
+ -10
+PUSHB_1
+ 51
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-5" 344 518 basechar 0
+AnchorPoint: "Anchor-4" 339 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 149 99 N 1 0 0 1 0 0 0
+Refer: 1454 -1 N 1 0 0 1 80 -10 0
+EndChar

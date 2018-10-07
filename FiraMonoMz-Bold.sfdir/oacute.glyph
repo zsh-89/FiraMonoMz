@@ -1,0 +1,14 @@
+StartChar: oacute
+Encoding: 243 243 211
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-5" 300 531 basechar 0
+AnchorPoint: "Anchor-4" 300 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 210 111 N 1 0 0 1 0 0 0
+Refer: 1428 180 N 1 0 0 1 0 0 0
+Substitution2: "'locl' Localized Forms in Latin lookup 7 subtable" oacute.loclPLK
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" oacute.loclPLK
+EndChar

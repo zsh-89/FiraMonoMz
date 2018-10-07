@@ -1,0 +1,129 @@
+StartChar: daggerdbl
+Encoding: 8225 8225 1390
+Width: 600
+GlyphClass: 2
+Flags: W
+TtInstrs:
+MPPEM
+PUSHB_1
+ 42
+LT
+IF
+NPUSHB
+ 33
+ 6
+ 1
+ 2
+ 5
+ 1
+ 3
+ 4
+ 2
+ 3
+ 97
+ 0
+ 9
+ 9
+ 57
+ 75
+ 7
+ 1
+ 1
+ 1
+ 0
+ 89
+ 8
+ 1
+ 0
+ 0
+ 60
+ 75
+ 0
+ 4
+ 4
+ 58
+ 4
+ 76
+ELSE
+NPUSHB
+ 33
+ 6
+ 1
+ 2
+ 5
+ 1
+ 3
+ 4
+ 2
+ 3
+ 97
+ 7
+ 1
+ 1
+ 1
+ 0
+ 89
+ 8
+ 1
+ 0
+ 0
+ 60
+ 75
+ 0
+ 9
+ 9
+ 4
+ 89
+ 0
+ 4
+ 4
+ 58
+ 4
+ 76
+EIF
+NPUSHB
+ 14
+ 19
+ 18
+ 17
+ 17
+ 17
+ 17
+ 17
+ 17
+ 17
+ 17
+ 16
+ 10
+ 8
+ 29
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+353 521 m 1,0,-1
+ 521 521 l 1,1,-1
+ 521 429 l 1,2,-1
+ 353 429 l 1,3,-1
+ 353 247 l 1,4,-1
+ 521 247 l 1,5,-1
+ 521 155 l 1,6,-1
+ 353 155 l 1,7,-1
+ 353 0 l 1,8,-1
+ 247 0 l 1,9,-1
+ 247 155 l 1,10,-1
+ 79 155 l 1,11,-1
+ 79 247 l 1,12,-1
+ 247 247 l 1,13,-1
+ 247 429 l 1,14,-1
+ 79 429 l 1,15,-1
+ 79 521 l 1,16,-1
+ 247 521 l 1,17,-1
+ 247 678 l 1,18,-1
+ 353 678 l 1,19,-1
+ 353 521 l 1,0,-1
+EndSplineSet
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" daggerdbl.tosf
+Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" daggerdbl.tosf
+EndChar

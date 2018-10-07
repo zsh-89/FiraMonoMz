@@ -1,0 +1,116 @@
+StartChar: six
+Encoding: 54 54 904
+Width: 600
+Flags: W
+TtInstrs:
+NPUSHB
+ 69
+ 16
+ 1
+ 2
+ 1
+ 17
+ 1
+ 3
+ 2
+ 22
+ 1
+ 4
+ 3
+ 32
+ 1
+ 5
+ 4
+ 4
+ 74
+ 6
+ 1
+ 3
+ 0
+ 4
+ 5
+ 3
+ 4
+ 99
+ 0
+ 2
+ 2
+ 1
+ 91
+ 0
+ 1
+ 1
+ 65
+ 75
+ 7
+ 1
+ 5
+ 5
+ 0
+ 91
+ 0
+ 0
+ 0
+ 66
+ 0
+ 76
+ 25
+ 25
+ 0
+ 0
+ 25
+ 35
+ 25
+ 34
+ 30
+ 28
+ 0
+ 24
+ 0
+ 23
+ 35
+ 37
+ 38
+ 8
+ 8
+ 23
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+440 429 m 128,-1,1
+ 484 404 484 404 510 354 c 128,-1,2
+ 536 304 536 304 536 233 c 0,3,4
+ 536 160 536 160 506.5 104 c 128,-1,5
+ 477 48 477 48 425.5 17.5 c 128,-1,6
+ 374 -13 374 -13 308 -13 c 0,7,8
+ 184 -13 184 -13 126 76.5 c 128,-1,9
+ 68 166 68 166 68 321 c 0,10,11
+ 68 436 68 436 100.5 522.5 c 128,-1,12
+ 133 609 133 609 195 656.5 c 128,-1,13
+ 257 704 257 704 341 704 c 0,14,15
+ 420 704 420 704 483 662 c 1,16,-1
+ 440 590 l 1,17,18
+ 394 619 394 619 341 619 c 0,19,20
+ 271 619 271 619 229 553.5 c 128,-1,21
+ 187 488 187 488 183 373 c 1,22,23
+ 244 454 244 454 341 454 c 0,24,0
+ 396 454 396 454 440 429 c 128,-1,1
+394 114 m 128,-1,26
+ 423 156 423 156 423 228 c 0,27,28
+ 423 371 423 371 318 371 c 0,29,30
+ 278 371 278 371 243.5 349.5 c 128,-1,31
+ 209 328 209 328 184 290 c 1,32,33
+ 186 177 186 177 215 124.5 c 128,-1,34
+ 244 72 244 72 309 72 c 0,35,25
+ 365 72 365 72 394 114 c 128,-1,26
+EndSplineSet
+Substitution2: "'onum' Oldstyle Figures in Latin lookup 22 subtable" six.tosf
+Substitution2: "'frac' Diagonal Fractions in Latin lookup 17 subtable" six.numr
+Substitution2: "'dnom' Denominators in Latin lookup 15 subtable" six.dnom
+Substitution2: "'numr' Numerators in Latin lookup 14 subtable" six.numr
+Substitution2: "'sups' Superscript in Latin lookup 13 subtable" uni2076
+Substitution2: "'subs' Subscript in Latin lookup 12 subtable" uni2086
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 1 subtable" uni2086 uni2076 six.numr six.dnom six.tosf
+EndChar

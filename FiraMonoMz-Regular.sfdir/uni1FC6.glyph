@@ -1,0 +1,13 @@
+StartChar: uni1FC6
+Encoding: 8134 8134 818
+Width: 600
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 299 527 basechar 0
+AnchorPoint: "Anchor-2" 138 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 721 951 N 1 0 0 1 0 0 0
+Refer: 1475 8128 N 1 0 0 1 -1 0 0
+Validated: 1
+EndChar
