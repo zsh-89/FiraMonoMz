@@ -1,17 +1,24 @@
 
 
 ## Basic info
-This work is based on: https://github.com/mozilla/Fira/commits/master
+This work is based on: [Mozilla Fira](http://mozilla.github.io/Fira/)
 Currently based on commit 5c8d9b.
-(This work is not based on FiraCode. 
- I personally don't like font ligatures.)
 
-It changes 2 chars in Fira Mono, `&` and `@` (both comes from other open source font), 
+This work is not based on [FiraCode](https://github.com/tonsky/FiraCode). 
+I personally don't like font ligatures.
+
+It changes 2 chars in Fira Mono, `&` and `@` (both comes from other open source font),
++ Fira Mono Mz: 
 ![Image Fira Mono Mz](./FiraMonoMz.PNG)
++ Original Fira Mono:
 ![Image Fira Mono](./FiraMono.PNG)
 
 The `.ttf` files are fonts for download.
-Just like Fira Mono, this work is also free and open-source.
+For normal users, just download those `.ttf` files and use them.
+(Other things are only interesting for font hackers.)
+
+Just like Fira Mono, this work is also free and open-source, 
+and the license is the same as Fira Mono.
 
 
 ## Project Intro for font hackers
@@ -20,20 +27,21 @@ We have 3 font-forge prject files:
 + `FiraMonoMz-Medium.sfdir\`: font-forge project file for font `FiraMonoMz-Medium`.
 + `FiraMonoMz-Regular.sfdir\`: font-forge project file for font `FiraMonoMz-Regular`.
 
-For other files, see next section.
-
-
-## Need post-processing to make font be reconized as "Monospaced font"
+### post-processing to make font be reconized as "Monospaced font"
+If you make some changes to the font-forge prject, 
+remember that after exporting your version of `.ttf` file using font-forge, 
+you need to run following commands:
 ```sh
 python fixmono.py FiraMonoMz-Regular.ttf
 python fixmono.py FiraMonoMz-Medium.ttf
 python fixmono.py FiraMonoMz-Bold.ttf
 ```
 What is done: the script set the `isFixedPitch` of each font to `1`.
+(You might need to install `fonttools` python package first. See `fixmono.py` for detail.)
 
-See: https://github.com/ryanoasis/nerd-fonts/blob/master/bin/scripts/fpfix.py
+See also: https://github.com/ryanoasis/nerd-fonts/blob/master/bin/scripts/fpfix.py
 
-### why need post-preocessing
+#### why need post-preocessing
 See file `0 width glyph.log` (which is the output of 
 `grep "^Width:" *.glyph > "../0 width glyph.log"`) for detail:
 search for keyword 'Width: 0', you can see 27 chars have 0 width.
