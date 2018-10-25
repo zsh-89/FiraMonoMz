@@ -7,7 +7,11 @@ Currently based on commit 5c8d9b.
 This work is not based on [FiraCode](https://github.com/tonsky/FiraCode). 
 I personally don't like font ligatures.
 
-It changes 2 chars in Fira Mono, `&` and `@` (both comes from other open source font),
+It changes 2 chars in Fira Mono, `&` and `@`:
++ `&`: use the design of `&` in open source font "Hack"
++ `@`: use the design of `@` in open source font "Inconsolata" 
+
+
 + Fira Mono Mz: 
 ![Image Fira Mono Mz](./FiraMonoMz.PNG)
 + Original Fira Mono:
