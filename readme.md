@@ -7,22 +7,29 @@ Currently based on commit 5c8d9b.
 This work is not based on [FiraCode](https://github.com/tonsky/FiraCode). 
 I personally don't like font ligatures.
 
-It changes 2 chars in Fira Mono, `&` and `@`:
+It changes following chars in Fira Mono:
 + `&`: use the design of `&` in open source font "Hack"
 + `@`: use the design of `@` in open source font "Inconsolata" 
-
++ `g`: slightly modify the shape, to seal the bottom part.
+  This make the `g` char looks more readable and balanced in small 
+  font size.
 
 + Fira Mono Mz: 
 ![Image Fira Mono Mz](./FiraMonoMz.PNG)
 + Original Fira Mono:
 ![Image Fira Mono](./FiraMono.PNG)
++ char `g` comparison in small font size:
+![char g comparison](./comparison-g.png)
 
-The `.ttf` files are fonts for download.
-For normal users, just download those `.ttf` files and use them.
-(Other things are only interesting for font hackers.)
+
+For normal users, just download `.ttf` files and use them:
++ In folder `FiraMonoMz-ttf`:   font files with `&` and `@` modified
++ In folder `FiraMonoMz-ttf-g`: font files with `&`, `@` and `g` modified
 
 Just like Fira Mono, this work is also free and open-source, 
 and the license is the same as Fira Mono.
+
+(The following parts are only useful for font hackers.)
 
 
 ## Project Intro for font hackers
@@ -39,6 +46,10 @@ you need to run following commands:
 python fixmono.py FiraMonoMz-Regular.ttf
 python fixmono.py FiraMonoMz-Medium.ttf
 python fixmono.py FiraMonoMz-Bold.ttf
+
+python fixmono.py FiraMonoMz-Regular2.ttf
+python fixmono.py FiraMonoMz-Medium2.ttf
+python fixmono.py FiraMonoMz-Bold2.ttf
 ```
 What is done: the script set the `isFixedPitch` of each font to `1`.
 (You might need to install `fonttools` python package first. See `fixmono.py` for detail.)
