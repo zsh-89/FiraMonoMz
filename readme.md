@@ -18,9 +18,10 @@ It changes following chars in Fira Mono:
 ![Image Fira Mono Mz](./FiraMonoMz.PNG)
 + Original Fira Mono:
 ![Image Fira Mono](./FiraMono.PNG)
-+ char `g` comparison in small font size:
++ char `g` comparison in small font size: <br/>
 ![char g comparison](./comparison-g.png)
-
++ char `g` comparison in large font size: <br/>
+![char g comparison](./comparison-g-big.png)
 
 For normal users, just download `.ttf` files and use them:
 + In folder `FiraMonoMz-ttf`:   font files with `&` and `@` modified
@@ -47,9 +48,9 @@ python fixmono.py FiraMonoMz-Regular.ttf
 python fixmono.py FiraMonoMz-Medium.ttf
 python fixmono.py FiraMonoMz-Bold.ttf
 
-python fixmono.py FiraMonoMz-Regular2.ttf
-python fixmono.py FiraMonoMz-Medium2.ttf
-python fixmono.py FiraMonoMz-Bold2.ttf
+python fixmono.py FiraMonoMz-ttf-g/FiraMonoMz-Regular-g.ttf
+python fixmono.py FiraMonoMz-ttf-g/FiraMonoMz-Medium-g.ttf
+python fixmono.py FiraMonoMz-ttf-g/FiraMonoMz-Bold-g.ttf
 ```
 What is done: the script set the `isFixedPitch` of each font to `1`.
 (You might need to install `fonttools` python package first. See `fixmono.py` for detail.)
