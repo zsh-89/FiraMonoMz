@@ -1,11 +1,24 @@
 
 
-## Basic info
+## Download
+![Image Fira Mono Mz](./Showcase.png)
+
+This font is a derived work from [Mozilla Fira](http://mozilla.github.io/Fira/).
+
++ In folder `FiraMonoMz-ttf-g` (recommended): font files with `&`, `@` and `g` modified.
+  
++ In folder `FiraMonoMz-ttf`:   font files with `&` and `@` modified
+
+
+## License & Difference from Fira Mono
 This work is based on: [Mozilla Fira](http://mozilla.github.io/Fira/)
 Currently based on commit 5c8d9b.
 
 This work is not based on [FiraCode](https://github.com/tonsky/FiraCode). 
-I personally don't like font ligatures.
+So Fira Mono Mz doesn't support font ligatures (I personally don't find it useful).
+
+Just like Fira Mono, this work is also **free and open source**, 
+and the license is the same as Fira Mono.
 
 It changes following chars in Fira Mono:
 + `&`: use the design of `&` in open source font "Hack"
@@ -23,23 +36,14 @@ It changes following chars in Fira Mono:
 + char `g` comparison in large font size: <br/>
 ![char g comparison](./comparison-g-big.png)
 
-For normal users, just download `.ttf` files and use them:
-+ In folder `FiraMonoMz-ttf`:   font files with `&` and `@` modified
-+ In folder `FiraMonoMz-ttf-g`: font files with `&`, `@` and `g` modified
 
-Just like Fira Mono, this work is also free and open-source, 
-and the license is the same as Fira Mono.
-
-(The following parts are only useful for font hackers.)
-
-
-## Project Intro for font hackers
+## For font hackers
 We have 3 font-forge prject files:
 + `FiraMonoMz-Bold.sfdir\`: font-forge project file for font `FiraMonoMz-Bold`.
 + `FiraMonoMz-Medium.sfdir\`: font-forge project file for font `FiraMonoMz-Medium`.
 + `FiraMonoMz-Regular.sfdir\`: font-forge project file for font `FiraMonoMz-Regular`.
 
-### post-processing to make font be reconized as "Monospaced font"
+### Post-processing to make font be recognized as "Monospaced font"
 If you make some changes to the font-forge prject, 
 remember that after exporting your version of `.ttf` file using font-forge, 
 you need to run following commands:
