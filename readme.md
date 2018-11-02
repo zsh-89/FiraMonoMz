@@ -35,6 +35,8 @@ It changes following chars in Fira Mono:
 ![char g comparison](./comparison-g.png)
 + char `g` comparison in large font size: <br/>
 ![char g comparison](./comparison-g-big.png)
++ char `g` comparison in huge font size: <br/>
+![char g comparison](./comparison-g-huge.png)
 
 
 ## For font hackers
