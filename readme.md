@@ -38,6 +38,7 @@ It changes following chars in Fira Mono:
 + char `g` comparison in huge font size: <br/>
 ![char g comparison](./comparison-g-huge.png)
 
+![design](./design.PNG) <br/>
 
 ## For font hackers
 We have 3 font-forge prject files:
